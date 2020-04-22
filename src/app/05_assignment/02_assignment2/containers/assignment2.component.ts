@@ -1,5 +1,5 @@
 import { Component,Input } from '@angular/core';
-import { Todo } from 'src/app/03_pipes/models/todo.interface';
+import { Todo } from 'src/app/todo/models/todo.interface'
 @Component({
   selector: 'app-assignment2',
   templateUrl: './assignment2.component.html',
